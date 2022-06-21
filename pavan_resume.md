@@ -102,4 +102,3 @@ Managed documentation for Systems Management Line of Business for Dell with a sp
 
 **On the Spot Award Recipient,** OpenManage Mobile Documentation
 
-…_Continued…_
